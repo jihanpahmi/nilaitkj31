@@ -16,6 +16,7 @@
                             <th>ID</th>
                             <th>Mata Pelajaran</th>
                             <th>Jam Pelajaran</th>
+                            <th>Aksi</th>
                         </tr>
                     </thead>
                     <tbody>
